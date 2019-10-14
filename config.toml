@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://akhoronko.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Andrey Khoronko"
 theme = "tale"
 sectionPagesMenu = "main"
 
